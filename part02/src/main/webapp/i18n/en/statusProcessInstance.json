@@ -1,0 +1,11 @@
+{
+  "travelPlanProcessApp": {
+    "StatusProcessInstance": {
+      "null": "",
+      "RUNNING": "RUNNING",
+      "COMPLETED": "COMPLETED",
+      "TERMINATED": "TERMINATED",
+      "CANCELED": "CANCELED"
+    }
+  }
+}

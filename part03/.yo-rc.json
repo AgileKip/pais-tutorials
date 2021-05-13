@@ -1,0 +1,57 @@
+{
+  "generator-jhipster": {
+    "skipJhipsterDependencies": true,
+    "blueprints": [
+      {
+        "name": "generator-jhipster-pais",
+        "version": "0.0.0"
+      }
+    ],
+    "otherModules": [
+      {
+        "name": "generator-jhipster-pais",
+        "version": "0.0.0"
+      }
+    ],
+    "applicationType": "monolith",
+    "baseName": "TravelPlan03",
+    "jhipsterVersion": "7.0.1",
+    "skipClient": false,
+    "skipServer": false,
+    "skipUserManagement": false,
+    "skipCheckLengthOfIdentifier": false,
+    "skipFakeData": false,
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "testFrameworks": [],
+    "pages": [],
+    "creationTimestamp": 1620857375975,
+    "serviceDiscoveryType": false,
+    "reactive": false,
+    "authenticationType": "jwt",
+    "packageName": "org.agilekip.tutorials.travel",
+    "serverPort": "8080",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "buildTool": "maven",
+    "serverSideOptions": [],
+    "websocket": false,
+    "searchEngine": false,
+    "messageBroker": false,
+    "enableSwaggerCodegen": false,
+    "withAdminUi": true,
+    "clientTheme": "none",
+    "clientFramework": "vue",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "packageFolder": "org/agilekip/tutorials/travel",
+    "jwtSecretKey": "MDRhNmEzM2IwY2U4NTllYWYxZTUyNzcxNmU5ZjdkNjQ3ZjRiMTM4ODJjNzYwNDUwYThjNmEyMGIxN2M4MTZlMGFkNzI1N2IzYTZhZjk5NzcwNWM0OWYzN2I1OTM5YzUyZTAyMThkMWNlZjExNWFhOGY0YjZjMjUxMWRiNjEyMGE=",
+    "clientPackageManager": "npm",
+    "clientThemeVariant": "",
+    "languages": ["en", "pt-br"]
+  }
+}

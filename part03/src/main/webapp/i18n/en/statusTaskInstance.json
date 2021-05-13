@@ -1,0 +1,12 @@
+{
+  "travelPlan03App": {
+    "StatusTaskInstance": {
+      "null": "",
+      "NEW": "NEW",
+      "ASSIGNED": "ASSIGNED",
+      "COMPLETED": "COMPLETED",
+      "UNASSIGNED": "UNASSIGNED",
+      "DELEGATED": "DELEGATED"
+    }
+  }
+}
