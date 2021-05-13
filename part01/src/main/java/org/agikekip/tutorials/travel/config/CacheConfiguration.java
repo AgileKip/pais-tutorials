@@ -51,6 +51,8 @@ public class CacheConfiguration {
             createCache(cm, org.agikekip.tutorials.travel.domain.ProcessDefinition.class.getName());
             createCache(cm, org.agikekip.tutorials.travel.domain.ProcessInstance.class.getName());
             createCache(cm, org.agikekip.tutorials.travel.domain.TaskInstance.class.getName());
+            createCache(cm, org.agikekip.tutorials.travel.domain.TravelPlan.class.getName());
+            createCache(cm, org.agikekip.tutorials.travel.domain.TravelPlanProcess.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }
